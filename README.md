@@ -21,6 +21,7 @@ Please install the following libraries (Using conda is highly recommended)
 
 ##Preparing your data
 * 1. Please use OpenFace to process all pair of video data, where aligned faces are produced and the facial landmarks are saved in the CSV files.
+* 2. You can download the example data from https://drive.google.com/drive/folders/1R7hhIKpTThfn49HG7yFVC7rXZLpJDyyf?usp=sharing , and directly put in the main directory
 
 The example of the obtained data:
 ：
