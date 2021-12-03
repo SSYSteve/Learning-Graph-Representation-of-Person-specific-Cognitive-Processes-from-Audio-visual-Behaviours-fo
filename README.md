@@ -1,8 +1,9 @@
 #PSSGR(Person-Specific Search and Graph Representation)
 This is the official code of the ACM MM 2021 oral paper：
 
-Personality Recognition by Modelling Person-specific Cognitive Processes using Graph Representation.
-Shao, Z., Song, S*., Jaiswal, S., Shen, L., Valstar, M. and Gunes, H., 2021. 
+Shao, Zilong, Siyang Song, Shashank Jaiswal, Linlin Shen, Michel Valstar, and Hatice Gunes. "**Personality Recognition by Modelling Person-specific Cognitive Processes using Graph Representation**." In Proceedings of the 29th ACM International Conference on Multimedia, pp. 357-366. 2021.
+
+Song, Siyang, Zilong Shao, Shashank Jaiswal, Linlin Shen, Michel Valstar, and Hatice Gunes. "**Learning Graph Representation of Person-specific Cognitive Processes from Audio-visual Behaviours for Automatic Personality Recognition**." arXiv preprint arXiv:2110.13570 (2021).
 
 ##Dependencies:
 Please install the following libraries (Using conda is highly recommended)
