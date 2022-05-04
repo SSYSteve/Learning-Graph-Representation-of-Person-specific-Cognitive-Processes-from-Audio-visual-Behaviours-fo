@@ -5,6 +5,20 @@ Shao, Zilong, Siyang Song, Shashank Jaiswal, Linlin Shen, Michel Valstar, and Ha
 
 Song, Siyang, Zilong Shao, Shashank Jaiswal, Linlin Shen, Michel Valstar, and Hatice Gunes. "**Learning Graph Representation of Person-specific Cognitive Processes from Audio-visual Behaviours for Automatic Personality Recognition**." arXiv preprint arXiv:2110.13570 (2021).
 
+# Hypothesis
+![alt text](https://github.com/SSYSteve/Learning-Graph-Representation-of-Person-specific-Cognitive-Processes-from-Audio-visual-Behaviours-fo/blob/main/comparsion.png)
+
+
+# Approach overview
+
+![alt text](https://github.com/SSYSteve/Learning-Graph-Representation-of-Person-specific-Cognitive-Processes-from-Audio-visual-Behaviours-fo/blob/main/hypothesis.png)
+
+![alt text](https://github.com/SSYSteve/Learning-Graph-Representation-of-Person-specific-Cognitive-Processes-from-Audio-visual-Behaviours-fo/blob/main/NAS_pipeline.png)
+
+![alt text](https://github.com/SSYSteve/Learning-Graph-Representation-of-Person-specific-Cognitive-Processes-from-Audio-visual-Behaviours-fo/blob/main/Graph_pipeline.png)
+
+
+# Code
 
 Please also download the two folders and put them in the main directory before you runing the code: https://drive.google.com/drive/folders/1QR6vtHabJuHfGOpTMjvc8Z1bFenbfQtj?usp=sharing
 
